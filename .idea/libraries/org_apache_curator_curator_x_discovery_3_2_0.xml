@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="org.apache.curator:curator-x-discovery:3.2.0" type="repository">
+    <properties maven-id="org.apache.curator:curator-x-discovery:3.2.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/curator-x-discovery-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-recipes-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-framework-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-client-3.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zookeeper-3.5.1-alpha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.7.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacc-5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-16.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/curator-x-discovery-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-recipes-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-framework-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-client-3.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zookeeper-3.5.1-alpha-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.7.0.Final-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-16.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/curator-x-discovery-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-recipes-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-framework-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/curator-client-3.2.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/zookeeper-3.5.1-alpha-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-cli-1.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.16-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-3.7.0.Final-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javacc-5.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/guava-16.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.13-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

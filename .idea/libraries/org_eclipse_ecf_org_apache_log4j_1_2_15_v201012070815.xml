@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.eclipse.ecf:org.apache.log4j:1.2.15.v201012070815" type="repository">
+    <properties maven-id="org.eclipse.ecf:org.apache.log4j:1.2.15.v201012070815" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.log4j-1.2.15.v201012070815.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/org.apache.log4j-1.2.15.v201012070815-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
